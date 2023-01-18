@@ -6,3 +6,4 @@
   *Table Name:'to_do_list',
   *Field Name:'todo_id' & 'todo_name',
   *'todo_id' is set as `PRIMARY KEY AUTO_INCRIMENT` to generate 'todo_id' automatically. 
+  
